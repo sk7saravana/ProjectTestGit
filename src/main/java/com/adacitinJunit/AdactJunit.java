@@ -38,4 +38,9 @@ public class AdactJunit {
 		driver.quit();
 	}
 	
+	@Test
+	private void simmanMethod() {
+		System.out.println("Hi g  ");
+	}
+	
 }
